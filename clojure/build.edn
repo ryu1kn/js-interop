@@ -1,0 +1,14 @@
+{:output-to "out/main.js"
+ :main csv_writer.core
+ :optimizations :none
+ :target :nodejs
+ :output-wrapper true
+ :verbose true
+ :compiler-stats true
+ :parallel-build true
+ :output-dir "out"
+ :npm-deps {:csv-writer "1.6.0"}
+ :closure-warnings {:non-standard-jsdoc :off :global-this :off}
+ :install-deps true
+ :language-in :es6
+ :language-out :es5}
