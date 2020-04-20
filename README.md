@@ -10,3 +10,5 @@ In each language, cover:
 Languages:
 
 * [Clojure](./clojure)
+* [Scala](./scala)
+* [PureScript](./purescript)
