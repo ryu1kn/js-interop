@@ -1,5 +1,5 @@
 @file:JsModule("csv-writer")
-package jspackage
+package js
 
 import kotlin.js.Json
 import kotlin.js.Promise

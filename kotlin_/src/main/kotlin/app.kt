@@ -1,4 +1,4 @@
-import jspackage.createObjectCsvWriter
+import js.createObjectCsvWriter
 import kotlin.js.json
 
 fun main() {
