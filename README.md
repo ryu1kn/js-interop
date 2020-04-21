@@ -13,3 +13,5 @@ Languages:
 * [Scala](./scala)
 * [Kotlin](./kotlin_)
 * [PureScript](./purescript)
+* [JavaScript](./javascript)
+* [TypeScript](./typescript)
