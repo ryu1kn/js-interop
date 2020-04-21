@@ -11,4 +11,5 @@ Languages:
 
 * [Clojure](./clojure)
 * [Scala](./scala)
+* [Kotlin](./kotlin_)
 * [PureScript](./purescript)
