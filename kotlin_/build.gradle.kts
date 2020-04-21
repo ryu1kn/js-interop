@@ -11,7 +11,10 @@ kotlin {
     sourceSets["main"].dependencies {
         implementation(kotlin("stdlib-js"))
         implementation(npm("csv-writer", "1.6.0"))
-        // testImplementation(kotlin("test-js"))    // This doesn't work
+    }
+
+    sourceSets["test"].dependencies {
+        implementation(kotlin("test-js"))
     }
 }
 
