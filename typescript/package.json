@@ -1,0 +1,17 @@
+{
+  "name": "typescript",
+  "version": "0.0.1",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "scripts": {
+    "compile": "tsc -p ./"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}
